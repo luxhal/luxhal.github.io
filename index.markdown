@@ -5,4 +5,6 @@
 layout: home
 ---
 
-test
+Bienvenue sur mon portfolio !
+
+Le site est encore en construction, du contenu devrait faire son apparition d'ici peu. :wink: 

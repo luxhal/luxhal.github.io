@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bonjour, je m'appelle Lucas, je suis passionné d'informatique depuis plus de 7 ans maintenant, depuis je ne cesse d'en apprendre plus dans ce domaine, mon but dans ce domaine est de mettre mon savoir à disposition des autres.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Vous pouvez télécharger mon CV en format PDF: **[ICI]({{ site.url }}/assets/pdf/CV_HallerLucas_public.pdf)** :point_left:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Pour tout contact, merci de me contacter via mon **[LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }})**

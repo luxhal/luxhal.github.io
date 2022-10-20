@@ -23,7 +23,7 @@ title: Lucas Haller
 author: Lucas Haller
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenue sur mon site, ici, vous pouvez trouver mon CV,
-Et mes différents projets.
+  Et mes différents projets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lhaller.fr" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: lucas-haller
